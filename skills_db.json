@@ -1,0 +1,122 @@
+{
+  "python": {
+    "resource": "Python for Everybody (Coursera)",
+    "url": "https://www.coursera.org/specializations/python",
+    "project": "Build a script that organizes files in a folder by extension type.",
+    "hours": 40
+  },
+  "javascript": {
+    "resource": "The Modern JavaScript Tutorial (javascript.info)",
+    "url": "https://javascript.info",
+    "project": "Create a browser extension that changes the background color of any webpage.",
+    "hours": 50
+  },
+  "react": {
+    "resource": "React Official Tutorial",
+    "url": "https://react.dev/learn",
+    "project": "Build a todo list app with add, delete, and mark-as-complete features.",
+    "hours": 25
+  },
+  "sql": {
+    "resource": "SQLBolt",
+    "url": "https://sqlbolt.com",
+    "project": "Design a database for a movie-rating service and write queries to find top-rated films.",
+    "hours": 15
+  },
+  "aws": {
+    "resource": "AWS Getting Started",
+    "url": "https://aws.amazon.com/getting-started/",
+    "project": "Host a static resume website on Amazon S3 and make it publicly accessible.",
+    "hours": 10
+  },
+  "docker": {
+    "resource": "Docker Get Started",
+    "url": "https://docs.docker.com/get-started/",
+    "project": "Containerize a simple Python Flask app and run it locally.",
+    "hours": 12
+  },
+  "git": {
+    "resource": "GitHub Skills",
+    "url": "https://skills.github.com",
+    "project": "Create a repository, make branches, commit changes, and submit a pull request.",
+    "hours": 8
+  },
+  "typescript": {
+    "resource": "TypeScript for JavaScript Programmers",
+    "url": "https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html",
+    "project": "Convert a small JavaScript project to TypeScript, adding type annotations.",
+    "hours": 20
+  },
+  "node.js": {
+    "resource": "The Net Ninja: Node.js Crash Course",
+    "url": "https://www.youtube.com/playlist?list=PL4cUxeGkcC9jsz4LDYc6kv3ymONOKxwBU",
+    "project": "Build a REST API that returns a list of books (data can be hardcoded).",
+    "hours": 30
+  },
+  "tailwind css": {
+    "resource": "Tailwind CSS Official Docs",
+    "url": "https://tailwindcss.com/docs/installation",
+    "project": "Style a login form using only Tailwind utility classes (no custom CSS).",
+    "hours": 10
+  },
+  "next.js": {
+    "resource": "Next.js Learn Course",
+    "url": "https://nextjs.org/learn",
+    "project": "Build a simple blog with static pre-rendering using Markdown files.",
+    "hours": 35
+  },
+  "mongodb": {
+    "resource": "MongoDB University",
+    "url": "https://learn.mongodb.com",
+    "project": "Create a database for a library and write queries to find books by genre.",
+    "hours": 18
+  },
+  "graphql": {
+    "resource": "How to GraphQL",
+    "url": "https://www.howtographql.com",
+    "project": "Create a GraphQL API that fetches a list of users and their posts.",
+    "hours": 22
+  },
+  "postgresql": {
+    "resource": "PostgreSQL Tutorial",
+    "url": "https://www.postgresqltutorial.com",
+    "project": "Design a normalized database for an e-commerce store (users, products, orders).",
+    "hours": 20
+  },
+  "redis": {
+    "resource": "Redis University",
+    "url": "https://university.redis.com",
+    "project": "Build a simple URL shortener that uses Redis to store mappings.",
+    "hours": 15
+  },
+  "kubernetes": {
+    "resource": "Kubernetes Basics",
+    "url": "https://kubernetes.io/docs/tutorials/kubernetes-basics/",
+    "project": "Deploy a simple web app using a Kubernetes pod and service.",
+    "hours": 25
+  },
+  "terraform": {
+    "resource": "HashiCorp Learn Terraform",
+    "url": "https://learn.hashicorp.com/terraform",
+    "project": "Write a Terraform script to provision an AWS S3 bucket.",
+    "hours": 14
+  },
+  "jenkins": {
+    "resource": "Jenkins Beginner Tutorial",
+    "url": "https://www.jenkins.io/doc/pipeline/tour/getting-started/",
+    "project": "Create a pipeline that automatically runs tests for a code repository.",
+    "hours": 18
+  },
+  "machine learning": {
+    "resource": "Google's Machine Learning Crash Course",
+    "url": "https://developers.google.com/machine-learning/crash-course",
+    "project": "Train a simple linear regression model on a small dataset using scikit-learn.",
+    "hours": 30
+  },
+  "data structures": {
+    "resource": "GeeksforGeeks DSA Course",
+    "url": "https://www.geeksforgeeks.org/data-structures/",
+    "project": "Implement a binary search tree with insert, search, and delete operations.",
+    "hours": 45
+  }
+}

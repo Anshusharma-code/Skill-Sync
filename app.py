@@ -5,7 +5,7 @@ import os
 from dotenv import load_dotenv
 load_dotenv()  
 app = Flask(__name__)
-GEMINI_API_KEY = os.getenv("AIzaSyBcVqMKRAgJWRemTOBUicaXIkAiAoTW82E")
+GEMINI_API_KEY = os.getenv("GEMINI_API_KEY=your_actual_key_here")
 genai.configure(api_key=GEMINI_API_KEY)
 with open('skills_db.json', 'r') as f:
     SKILLS_DB = json.load(f)

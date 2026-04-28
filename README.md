@@ -41,7 +41,7 @@ SkillSync/
 
 ### 1. Clone the repository
 
-git clone https://github.com/your-username/skillsync.git
+git clone https://github.com/Anshusharma-code/skillsync.git
 cd skillsync
 
 Create virtual environment (optional but recommended)
